@@ -1,0 +1,13 @@
+name = "Mine-Pop!"
+filename = "Mine-Pop! 1.0-1.18.2 (FABRIC).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3d3f17a634f0ceb2bca4071369734b50ba1eff08"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3796516
+project-id = 599276
