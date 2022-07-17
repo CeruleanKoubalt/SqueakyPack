@@ -1,0 +1,13 @@
+name = "Spectrum"
+filename = "spectrum-1.4.2-1.18.2-chaos_and_exploration.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8bdf5bc7945eed55aab894fdb529ec2bd753b4a2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3851278
+project-id = 556967

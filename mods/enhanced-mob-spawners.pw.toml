@@ -1,0 +1,13 @@
+name = "Enhanced Mob Spawners"
+filename = "fabric-branders-spawnermod-1.18.2-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b9973c22fe45c2edf77a013865aca1f35638a94b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3673142
+project-id = 321663
