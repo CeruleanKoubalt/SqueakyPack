@@ -840,11 +840,6 @@ hash = "0e39bbc8777a064d26bfc5a386d0c35a129edd30ba85f7659f31cd8ad511c896"
 metafile = true
 
 [[files]]
-file = "mods/guard-villagers-fabric.pw.toml"
-hash = "0163f98414a145c00920fabcfedb5550e56230cf320346e62ad28b9105f8bb0b"
-metafile = true
-
-[[files]]
 file = "mods/icarus.pw.toml"
 hash = "8720f155e1d7565f8cf0189f3b947d32903bf6e1f74b9e1f08f02882a3df94c4"
 metafile = true
