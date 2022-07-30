@@ -1,0 +1,13 @@
+name = "Disc holders & Dj (Fabric)"
+filename = "disc_holder_and_dj_1.18.2-fabric-1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2e3bdcc73c556009015173392f89b93974d1f2e8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3755345
+project-id = 573695

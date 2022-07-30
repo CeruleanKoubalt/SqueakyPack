@@ -1,5 +1,8 @@
 {
   "modules": {
+    "megane-kibe": {
+      "lol.bai.megane.module.kibe.MeganeKibe": true
+    },
     "megane-reborn-core": {
       "lol.bai.megane.module.reborncore.MeganeRebornCore": true
     },
@@ -11,6 +14,9 @@
     },
     "megane-tech-reborn": {
       "lol.bai.megane.module.techreborn.MeganeTechReborn": true
+    },
+    "megane-extra-generators": {
+      "lol.bai.megane.module.extragenerators.MeganeExtraGenerators": true
     },
     "megane-applied-energistics-2": {
       "lol.bai.megane.module.ae2.MeganeAppliedEnergistics2": true

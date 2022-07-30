@@ -1,0 +1,13 @@
+name = "ToLaserBlade (Fabric)"
+filename = "ToLaserBlade-Fabric-1.18.2-0.6.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "83d14373118c23ef574fd10fbed5f2d320386fbb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3759450
+project-id = 495286

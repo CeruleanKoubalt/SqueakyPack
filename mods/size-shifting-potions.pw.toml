@@ -1,0 +1,13 @@
+name = "Size Shifting Potions - Fabric"
+filename = "sizeshiftingpotions-1.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "867eb5045f11b2f198d4910bccdf8b2d008ca941"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3735634
+project-id = 447440

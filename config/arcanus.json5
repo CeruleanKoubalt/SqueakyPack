@@ -10,7 +10,7 @@
 	*/
 	"strongholdsHaveBooks": true,
 	// Should Ruined Portals have Spell Books spawn?
-	"ruinedPortalsHaveBooks": true,
+	"ruinedPortalsHaveBooks": false,
 	/* Whether or not burnout should be applied when using too
 	       much mana.
 	*/

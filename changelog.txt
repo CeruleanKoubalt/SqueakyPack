@@ -1,0 +1,4 @@
+-Updated Loading Screen image
+-Updated Title Screen
+-Updated Misc. Mods + Fabric
+-Re-Enabled Regular Iron and Diamond tool crafting (Alloygery)

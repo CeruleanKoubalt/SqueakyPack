@@ -2,18 +2,18 @@
 strongholdStartMinY = -30
 strongholdStartMaxY = 11
 strongholdMaxY = 60
-strongholdSize = 16
+strongholdSize = 20
 cobwebReplacementChanceNormal = 0.1
 cobwebReplacementChanceSpawner = 0.3
 torchSpawnRate = 0.1
 lanternSpawnRate = 0.2
 [betterStrongholds.pieceSettings]
-grandLibraryMaxCount = 1
-smallLibraryMaxCount = 2
-prisonMaxCount = 2
+grandLibraryMaxCount = 2
+smallLibraryMaxCount = 3
+prisonMaxCount = 3
 cmdAcariiMaxCount = 1
-cmdYungMaxCount = 1
-treasureRoomMaxCount = 2
+cmdYungMaxCount = 3
+treasureRoomMaxCount = 3
 armouryLargeRoomMaxCount = 2
 armourySmallRoomMaxCount = 2
 portalRoomMaxCount = 1

@@ -9,10 +9,10 @@
   "turnOffVillagerConsoleSpam": false,
   "wanderingTraderNames": true,
   "wanderingTraderText": "Wandering Trader",
-  "surNames": true,
+  "surNames": false,
   "reverseLastNames": false,
   "nameTagNames": true,
-  "piglinNames": true,
-  "piglinSurnames": true,
-  "illagerEntityNames": true
+  "piglinNames": false,
+  "piglinSurnames": false,
+  "illagerEntityNames": false
 }
