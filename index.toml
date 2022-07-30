@@ -1041,11 +1041,6 @@ hash = "be2eb8aaf41cc18a31ccd3401c07547f189ce72ce6a30484b6ac16142c7b3653"
 metafile = true
 
 [[files]]
-file = "mods/better-village-fabric.pw.toml"
-hash = "173929dd4e0b19ce892ce0b944229909eb24b2539b8abe94b967981ad45bf4f2"
-metafile = true
-
-[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "136b82bace3e2ffec39e8b7972b3c71aaafb54113b05db649366e9e7293e7e36"
 metafile = true
@@ -1108,11 +1103,6 @@ metafile = true
 [[files]]
 file = "mods/chipped.pw.toml"
 hash = "5b959ed2914ad006d1ad11579656c8a263c9f4293e85c0931da104be20843a10"
-metafile = true
-
-[[files]]
-file = "mods/chirpys-wildlife.pw.toml"
-hash = "5c456af87341db9124fa50322eb188ecc85a92bb2ee837ab847ee8a10f4360ac"
 metafile = true
 
 [[files]]
@@ -1251,11 +1241,6 @@ hash = "c39341969410a4346494d4cc9843817de9453d59a400dd3792246811d74b2f7c"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "65370d3a87c7eadaa75ebf3c00cbff34cf206f88fa54c0d13da1225d7c4bf862"
-metafile = true
-
-[[files]]
 file = "mods/equipment-compare-fabric.pw.toml"
 hash = "9b6419b364a51bd7ebf53e10093cd1356b32644b596095b47689152f27a79bae"
 metafile = true
@@ -1336,11 +1321,6 @@ hash = "03f6d4651da69de498d2033f9cec972d59878abbef08131eb8f0d9b1ab5d2dba"
 metafile = true
 
 [[files]]
-file = "mods/gate-of-babylon.pw.toml"
-hash = "a364af6f14e389ce732913a6fda0421f996c6d3b836efacc35abb287dd56c972"
-metafile = true
-
-[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "82bb46b33410b83af78f1ff08ae79ff4506767a07f7c0b09c53370f28052a02b"
 metafile = true
@@ -1358,11 +1338,6 @@ metafile = true
 [[files]]
 file = "mods/grind-enchantments.pw.toml"
 hash = "0e39bbc8777a064d26bfc5a386d0c35a129edd30ba85f7659f31cd8ad511c896"
-metafile = true
-
-[[files]]
-file = "mods/guard-villagers-fabric.pw.toml"
-hash = "0163f98414a145c00920fabcfedb5550e56230cf320346e62ad28b9105f8bb0b"
 metafile = true
 
 [[files]]
@@ -1436,11 +1411,6 @@ hash = "440c3684ef8e18e0787e29db7884acc50f5b02605525d50e9a83b6ea6af8cae6"
 metafile = true
 
 [[files]]
-file = "mods/library-ferret-fabric.pw.toml"
-hash = "9fdb1bc03601713f718165b8463b70fedae8a65cee4c2e539a0fc3c1262ea545"
-metafile = true
-
-[[files]]
 file = "mods/light-overlay.pw.toml"
 hash = "17b0e44b0b415420e5b99252e1a5f2c7e951a16eac2ba12ae63e99d98012cca0"
 metafile = true
@@ -1473,11 +1443,6 @@ metafile = true
 [[files]]
 file = "mods/megane.pw.toml"
 hash = "176ea17692c0d6c7dc09a057ed637944622dcf1414c468797a20a12faebd7783"
-metafile = true
-
-[[files]]
-file = "mods/megaparrot.pw.toml"
-hash = "0225fb94694fdbdb08ffb9917483074380ffb50ddce7afa19ac20be646f221f5"
 metafile = true
 
 [[files]]
@@ -1586,11 +1551,6 @@ hash = "d5b6ecde4992d8515c9fd1b2ede3b03f6fae320eb1e91c1607fd94dd58f10c1a"
 metafile = true
 
 [[files]]
-file = "mods/secret-rooms-fabric.pw.toml"
-hash = "d6f612f6f7414dc1027ad0a165bf6ad587970274e45311a88dca1883de7fdfb7"
-metafile = true
-
-[[files]]
 file = "mods/show-me-what-you-got.pw.toml"
 hash = "f0f3db1d94ff771dedbd4d44fdf886dac40e66074ae562392d9f11a58beb78ec"
 metafile = true
@@ -1603,11 +1563,6 @@ metafile = true
 [[files]]
 file = "mods/size-shifting-potions.pw.toml"
 hash = "ec8d1c55981fa5c1f173dfe3891e6cafbbc0808bab60cc48baeef7886a2e70e7"
-metafile = true
-
-[[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "15350b769fc12838c269fb9abe09a27cfbe41a90dcbdce18b55d8bc51236108b"
 metafile = true
 
 [[files]]
@@ -1638,11 +1593,6 @@ metafile = true
 [[files]]
 file = "mods/stoneholm.pw.toml"
 hash = "b1b6ca79f51aee17c4dac0014cae2cc0cccb6647a93c889446c142e6102ba1eb"
-metafile = true
-
-[[files]]
-file = "mods/structory.pw.toml"
-hash = "ed0a2ee3258abba146a7799c363738c3e2d907526a883d36e59e4e83a8b88ec5"
 metafile = true
 
 [[files]]
